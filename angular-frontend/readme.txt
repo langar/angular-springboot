@@ -1,3 +1,0 @@
-Les deux projets :
- - angular-frontend
- - springboot-backend
